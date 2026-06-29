@@ -109,13 +109,6 @@ Designed an interactive Power BI dashboard to analyze weather patterns across Te
 
 ---
 
-### 📊 GitHub Stats
-
-![Supriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=supriyapalpunoori\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=supriyapalpunoori\&layout=compact)
-
----
 
 ### 📫 Let's Connect
 
