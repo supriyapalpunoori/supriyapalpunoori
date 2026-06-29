@@ -4,7 +4,7 @@
 
 📍 Hyderabad, Telangana, India
 📧 [supriyapalpunoori@gmail.com](mailto:supriyapalpunoori@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/supriya-palpunoori/) | [GitHub](https://github.com/supriyapalpunoori)
+🔗 [LinkedIn](https://www.linkedin.com/in/supriyapalpunoori/) | [GitHub](https://github.com/supriyapalpunoori)
 
 ---
 
